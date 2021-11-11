@@ -1,4 +1,4 @@
 # discord-unblocked
 DISCORD UNBLOCKED!
 IMPORTANT! I AM NOT THE OWNER OF THE WEBSITE IN SOURCE CODE!
-CREDIT: @titaniumnetwork-dev
+CREDIT: https://github.com/titaniumnetwork-dev
